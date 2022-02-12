@@ -8,26 +8,20 @@ To develop a python control code to move the mobilerobot along the predefined pa
 2. Python 3.7
 
 ## Procedure
+### Step1:
+Initiate the MobileRobot.
 
-Step1:
+### Step2:
+Connect your PC with the MobileRobot.
 
-<br/>
+### Step3:
+Open Python program.
 
-Step2:
+### Step4:
+Program the movements of the robot using python code.
 
-<br/>
-
-Step3:
-
-<br/>
-
-Step4:
-
-<br/>
-
-Step5:
-
-<br/>
+### Step5:
+Execute the python program.
 
 ## Program
 ```python
@@ -40,7 +34,7 @@ if __name__ == '__main__':
 
     ep_chassis = ep_robot.chassis
 
-    ## Write your code here
+   
 
 
 
