@@ -25,6 +25,7 @@ Execute the python program.
 
 ## Program
 ~~~
+python
 from robomaster import robot
 import time
 
@@ -61,26 +62,33 @@ if _name_ == '_main_':
     ep_chassis.move(x=0, y=1.5, z=0, xy_speed=2).wait_for_completed()
     ep_chassis.move(x=0, y=0, z=180, xy_speed=2).wait_for_completed()
     ep_robot.close()
+
     ~~~
 
 ## MobileRobot Movement Image:
 
-![robo](https://github.com/ragulmani936/mobilerobot-openloopcontrol/raw/main/img/robomaster.png)
+![robo](./img/robomaster.png)
+![Initial Position](https://github.com/ragulmani936/mobilerobot-openloopcontrol/blob/main/img/initial.jpeg)
+![Fianl Position](https://github.com/ragulmani936/mobilerobot-openloopcontrol/blob/main/img/final.jpeg)
+<br/>
+<br/>
+<br/>
+<br/>
 
-Insert image here
-![output](https://github.com/ragulmani936/mobilerobot-openloopcontrol/blob/main/Initial%20position.jpeg)
-![output](https://github.com/ragulmani936/mobilerobot-openloopcontrol/blob/main/Initial%20position.jpeg)
+
 
 ## MobileRobot Movement Video:
 
-Upload your video in Youtube and paste your video-id here
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-![output](https://github.com/ragulmani936/mobilerobot-openloopcontrol/blob/main/Initial%20position.jpeg)
-![output](https://github.com/ragulmani936/mobilerobot-openloopcontrol/blob/main/Final%20position.jpeg)
-## Result:
-Thus the python program code is developed to move the mobilerobot in the predefined path.
 
+Click the image for video
+
+[![Mobile Robot Video](https://github.com/RanjithD18/mobilerobot-openloopcontrol/blob/main/img/robot.jpeg)](https://youtu.be/KWXzbHweuFw)
+
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 
