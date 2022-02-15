@@ -83,7 +83,7 @@ if _name_ == '_main_':
 
 Click the image for video
 
-[![Mobile Robot Video](https://github.com/RanjithD18/mobilerobot-openloopcontrol/blob/main/img/robot.jpeg)](https://youtu.be/KWXzbHweuFw)
+[![Mobile Robot Video](https://github.com/ragulmani936/mobilerobot-openloopcontrol/blob/main/img/robot.jpeg)](https://youtu.be/KWXzbHweuFw)
 
 <br/>
 <br/>
