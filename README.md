@@ -89,7 +89,12 @@ Click the image for video
 <br/>
 <br/>
 <br/>
+## Result:
+Thus the python program code is developed to move the mobilerobot in the predefined path.
 
+
+<br/>
+<br/>
 
 
 ```
