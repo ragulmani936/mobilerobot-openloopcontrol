@@ -24,7 +24,7 @@ Program the movements of the robot using python code.
 Execute the python program.
 
 ## Program
-```
+~~~
 from robomaster import robot
 import time
 
