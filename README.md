@@ -65,7 +65,7 @@ if _name_ == '_main_':
 
 ## MobileRobot Movement Image:
 
-![robo](https://github.com/ragulmani936/mobilerobot-openloopcontrol/blob/main/img/robot.jpeg)
+![robo](https://github.com/ragulmani936/mobilerobot-openloopcontrol/blob/main/img/robomaster.png)
 
 Insert image here
 
