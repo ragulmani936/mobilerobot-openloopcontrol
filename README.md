@@ -62,8 +62,7 @@ if _name_ == '_main_':
     ep_chassis.move(x=0, y=1.5, z=0, xy_speed=2).wait_for_completed()
     ep_chassis.move(x=0, y=0, z=180, xy_speed=2).wait_for_completed()
     ep_robot.close()
-
-    ~~~
+~~~
 
 ## MobileRobot Movement Image:
 
