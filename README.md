@@ -68,7 +68,7 @@ if _name_ == '_main_':
 
 ![robo](./img/robomaster.png)
 ![Initial Position](https://github.com/ragulmani936/mobilerobot-openloopcontrol/blob/main/Initial%20position.jpeg)
-![Fianl Position](https://github.com/ragulmani936/mobilerobot-openloopcontrol/blob/main/img/final%20position.jpeg)
+![Fianl Position](https://github.com/ragulmani936/mobilerobot-openloopcontrol/blob/main/Final%20position.jpeg)
 <br/>
 <br/>
 <br/>
