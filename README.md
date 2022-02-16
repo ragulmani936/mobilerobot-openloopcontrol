@@ -78,11 +78,7 @@ if _name_ == '_main_':
 
 ## MobileRobot Movement Video:
 
-
-
-Click the image for video
-
-[![Mobile Robot Video](https://github.com/ragulmani936/mobilerobot-openloopcontrol/blob/main/img/robot.jpeg)](https://youtu.be/KWXzbHweuFw)
+(https://youtu.be/KWXzbHweuFw)
 
 <br/>
 <br/>
